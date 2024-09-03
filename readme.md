@@ -1,7 +1,7 @@
 # A LinkStack Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: ThemeName
+*	Theme Name: La Vinya
 *	Theme Version: 1.0
 *	Theme Date: YYYY-MM-DD
 *	Theme Author: YourGitHubName

@@ -257,10 +257,12 @@
 @media (prefers-color-scheme: dark) {
   .credit-txt-clr{
       color: #FFF !important;
+      display: none;
   }
 }
 @media (prefers-color-scheme: light) {
   .credit-txt-clr{
       color: #100a26 !important;
+      display: none;
   }
 }
