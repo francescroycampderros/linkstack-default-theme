@@ -1,6 +1,8 @@
 <style> /* This is a comment */ </style>
 
-<script> // This is a comment </script>
+<script> 
+    document.querySelector("img[alt=avatar]").removeAttribute("width"); 
+</script>
 
 {{-- This is a comment --}}
 

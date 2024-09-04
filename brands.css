@@ -9,6 +9,10 @@
 
 */
 
+:root {
+  --linkColor: #67c613;
+}
+
 
 /* Rounded avatars
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -377,7 +381,7 @@ button:hover,
 /* Facebook */
 .button.button-facebook {
   color: #FFFFFF;
-  background-color: #1877f2;
+  background-color: var(--linkColor);
 }
 .button.button-facebook:hover,
 .button.button-facebook:focus {
@@ -514,9 +518,9 @@ button:hover,
   color: #FFFFFF;
   background-image: linear-gradient(
     -135deg,
-    #1400c8,
-    #b900b4,
-    #f50000
+    #67c613,
+    #4ee54e,
+    #a1eaa1
   );
 }
 .button.button-instagram:hover,
@@ -597,7 +601,7 @@ button:hover,
 /* LinkedIn */
 .button.button-linkedin {
   color: #FFFFFF;
-  background-color: #2867B2;
+  background-color: var(--linkColor);
 }
 .button.button-linkedin:hover,
 .button.button-linkedin:focus {

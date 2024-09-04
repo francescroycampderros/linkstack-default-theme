@@ -244,11 +244,11 @@
   text-decoration: none;
 }
 
-/* Some fonts shift the credit footer icon around 
-/* You can uncomment this to hide the icon and only display the text
 .credit-icon {
   display: none; }
-.credit-footer {
+/* Some fonts shift the credit footer icon around 
+/* You can uncomment this to hide the icon and only display the text
+  .credit-footer {
   position: relative;
   right: 15px; }
 */
